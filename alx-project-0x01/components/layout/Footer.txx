@@ -1,1 +1,1 @@
-Footer
+import React from "react";
